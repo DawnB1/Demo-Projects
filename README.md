@@ -8,9 +8,9 @@ https://drive.google.com/file/d/1fj98lFdr2_Jd_OTvMu5nvbjQ7PFndkzZ/view
 ## Navigating within Splunk -  Main Page and Basic Searches
 https://drive.google.com/file/d/1f9rhqH3SYPSAB0KsEwbkOxQTfs1ohfmv/view
 
-## HP UFT test
+## HP UFT Test using VBScript
 https://drive.google.com/file/d/0B-XPt0fui4OIZ3E3dXRFbjRNX3c/view?usp=sharing&resourcekey=0-jZepKR39-su62OZPX-4gnw
 
-## E-commerce test
+## E-commerce Test using VBScript
 
 https://drive.google.com/file/d/0B-XPt0fui4OIN01jN3JqSFU3QTQ/view?resourcekey=0-1FkCSBR2zhVKVMcqO7L55w
