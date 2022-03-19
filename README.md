@@ -14,3 +14,7 @@ https://drive.google.com/file/d/1f9rhqH3SYPSAB0KsEwbkOxQTfs1ohfmv/view
 
 ## HP UFT test
 https://drive.google.com/file/d/0B-XPt0fui4OIZ3E3dXRFbjRNX3c/view?usp=sharing&resourcekey=0-jZepKR39-su62OZPX-4gnw
+
+## E-commerce test
+
+https://drive.google.com/file/d/0B-XPt0fui4OIN01jN3JqSFU3QTQ/view?resourcekey=0-1FkCSBR2zhVKVMcqO7L55w
