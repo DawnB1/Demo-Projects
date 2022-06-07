@@ -1,3 +1,7 @@
+## Jira
+
+https://drive.google.com/file/d/0B-XPt0fui4OIQnROaHlPZVd5bFk/view?resourcekey=0-rppqEjfF-xWTn8JPMWGC9Q
+
 ## Zendesk
 
 https://drive.google.com/file/d/1rbe9bEkSkbdpLLpiAcxXM8ttiKKZbDBX/view
@@ -13,7 +17,8 @@ https://drive.google.com/file/d/1fj98lFdr2_Jd_OTvMu5nvbjQ7PFndkzZ/view
 https://drive.google.com/file/d/1f9rhqH3SYPSAB0KsEwbkOxQTfs1ohfmv/view
 
 ## HP UFT Test using VBScript
-https://drive.google.com/file/d/0B-XPt0fui4OIZ3E3dXRFbjRNX3c/view?usp=sharing&resourcekey=0-jZepKR39-su62OZPX-4gnw
+
+https://drive.google.com/file/d/0B-XPt0fui4OIZ3E3dXRFbjRNX3c/view?resourcekey=0-jZepKR39-su62OZPX-4gnw
 
 ## E-commerce Test using VBScript
 
